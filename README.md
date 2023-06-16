@@ -1,6 +1,3 @@
-# Carrito-de-Compra-Basico-HTML-CSS-2023
-Carrito de compra básico
-
 
 # Carrito-de-Compra-Basico-HTML-CSS-2023
 
